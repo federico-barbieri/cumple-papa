@@ -132,7 +132,6 @@ const videos = [
     const video = document.createElement("video");
     video.setAttribute("preload", "none");
     video.setAttribute("controls", "controls");
-    video.setAttribute("muted", "muted");
     video.setAttribute("playsinline", "playsinline");
     // Lazy: real src is added later
     video.dataset.src = videoData.src;
