@@ -105,7 +105,12 @@ const videos = [
       id: "video-21",
       src: "videos/video-21.mp4",
       from: "Mariano",
-    }
+    },
+    {
+        id: "video-22",
+        src: "videos/video-22.mp4",
+        from: "Emma",
+      }
   ];
   
   // 2. Build the cards and add them to the page.
