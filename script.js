@@ -147,6 +147,11 @@ const videos = [
       from: "Fede",
     },
     {
+      id: "video-30",
+      src: "videos/video-30.mp4",
+      from: "Zina",
+    },
+    {
       id: "foto-1",
       src: "images/foto-1.jpeg",
       from: "",
