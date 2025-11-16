@@ -137,6 +137,11 @@ const videos = [
       from: "Fabiana",
     },
     {
+      id: "video-28",
+      src: "videos/video-28.mp4",
+      from: "Lucca y Zina",
+    },
+    {
       id: "foto-1",
       src: "images/foto-1.jpeg",
       from: "",
