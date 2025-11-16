@@ -350,7 +350,27 @@ const videos = [
       id: "foto-40",
       src: "images/foto-40.jpeg",
       from: "",
-    }
+    },
+    {
+      id: "foto-41",
+      src: "images/foto-41.jpeg",
+      from: "",
+    },
+    {
+      id: "foto-42",
+      src: "images/foto-42.jpeg",
+      from: "",
+    },
+    {
+      id: "foto-43",
+      src: "images/foto-43.jpeg",
+      from: "",
+    },
+    {
+      id: "foto-44",
+      src: "images/foto-44.jpeg",
+      from: "",
+    },
   ];
   
 // Helper function to check if file is an image
